@@ -1,4 +1,4 @@
-## MEMOIRE REALISATION D'UN ROBOT AUTONOME
+## Mémoire REALISATION D'UN ROBOT AUTONOME
 ![image](robot.m4p)
 
 ![image](robot.jpg)
